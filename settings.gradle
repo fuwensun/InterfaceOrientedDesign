@@ -1,3 +1,4 @@
 rootProject.name = 'InterfaceOrientedDesign'
 include 'AbstractMotor'
+include 'InterfaceMotor'
 

@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AbstractMotor" />
+            <option value="$PROJECT_DIR$/InterfaceMotor" />
           </set>
         </option>
       </GradleProjectSettings>
